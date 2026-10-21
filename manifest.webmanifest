@@ -1,16 +1,1 @@
-{
-  "id": "./",
-  "name": "دستیار فخر اروم",
-  "short_name": "فخر اروم",
-  "description": "چت‌بات آموزشی فارسی",
-  "lang": "fa",
-  "dir": "rtl",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#f5f8f8",
-  "theme_color": "#009688",
-  "icons": [
-    {"src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
-  ]
-}
+56
